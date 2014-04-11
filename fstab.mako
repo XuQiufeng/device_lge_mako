@@ -18,3 +18,7 @@
 /dev/block/platform/msm_sdcc.1/by-name/tz           /tz             emmc    defaults                                                        defaults
 /dev/block/platform/msm_sdcc.1/by-name/rpm          /rpm            emmc    defaults                                                        defaults
 /dev/block/platform/msm_sdcc.1/by-name/aboot        /aboot          emmc    defaults                                                        defaults
+/dev/block/zram0                                    none            swap    defaluts                                                        zramsize=123289600,swapprio=0
+/dev/block/zram1                                    none            swap    defaluts                                                        zramsize=123289600,swapprio=0
+/dev/block/zram2                                    none            swap    defaluts                                                        zramsize=123289600,swapprio=0
+/dev/block/zram3                                    none            swap    defaluts                                                        zramsize=123289600,swapprio=0
